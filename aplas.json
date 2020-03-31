@@ -21,7 +21,28 @@
       "months_to_renew_support": "0",
       "sme_email": "Tina.Eberst@memento.net.au",
       "vendor_phone": "+30 511 996 8034",
-      "investment_number": "205"
+      "investment_number": "205",
+      "integrations": [
+        {
+          "id": "int-202",
+          "name": "INT-202",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",
+          "sourceApplicationId": "repoware",
+          "targetApplicationId": "granular_big_data",
+          "logical_server": "A2A",
+          "status_color": "#00FF00",
+          "pattern": "Scatter Gather",
+          "golive_date": "14/6/04",
+          "sme_name": "Gilberto Thompkins",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "gthompkins0@memento.net.au",
+          "complexity": "Medium",
+          "last_deployment_date": "5/9/17"
+        }
+      ]
     }
   ]
 }
