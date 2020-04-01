@@ -28,7 +28,6 @@
           "name": "INT-202",
           "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
           "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",
-          "sourceApplicationId": "repoware",
           "targetApplicationId": "granular_big_data",
           "logical_server": "A2A",
           "status_color": "#00FF00",
